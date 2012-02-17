@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>test_song.wma</Source>
+      <Name>test_song</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.xnb</Output>
+      <Extra>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.wma</Extra>
+      <Time>2011-03-24T10:47:00.146354-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2011-03-25T10:18:39.8695512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageBoxFont.spritefont</Source>
+      <Name>MessageBoxFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\MessageBoxFont.xnb</Output>
+      <Time>2011-04-26T10:26:08.4614228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Eye of the tiger.mp3</Source>
+      <Name>music\Eye of the tiger</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.xnb</Output>
+      <Extra>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.wma</Extra>
+      <Time>2011-04-27T10:14:40.065824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_0.png</Source>
+      <Name>images\score_font_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_0.xnb</Output>
+      <Time>2011-05-02T10:25:43.7924004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_1.png</Source>
+      <Name>images\score_font_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_1.xnb</Output>
+      <Time>2011-05-02T10:25:43.7924004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_2.png</Source>
+      <Name>images\score_font_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_2.xnb</Output>
+      <Time>2011-05-02T10:25:43.7924004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_3.png</Source>
+      <Name>images\score_font_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_3.xnb</Output>
+      <Time>2011-05-02T10:25:43.8080261-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_4.png</Source>
+      <Name>images\score_font_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_4.xnb</Output>
+      <Time>2011-05-02T10:25:43.8080261-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_5.png</Source>
+      <Name>images\score_font_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_5.xnb</Output>
+      <Time>2011-05-02T10:25:43.8236514-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_6.png</Source>
+      <Name>images\score_font_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_6.xnb</Output>
+      <Time>2011-05-02T10:25:43.8236514-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_7.png</Source>
+      <Name>images\score_font_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_7.xnb</Output>
+      <Time>2011-05-02T10:25:43.8392767-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_8.png</Source>
+      <Name>images\score_font_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_8.xnb</Output>
+      <Time>2011-05-02T10:25:43.8392767-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_9.png</Source>
+      <Name>images\score_font_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_9.xnb</Output>
+      <Time>2011-05-02T10:25:43.7924004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progress_bar_blue.png</Source>
+      <Name>images\progress_bar_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_blue.xnb</Output>
+      <Time>2011-05-02T10:46:37.091272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progress_bar_left_end.png</Source>
+      <Name>images\progress_bar_left_end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_left_end.xnb</Output>
+      <Time>2011-05-02T10:46:37.091272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progress_bar_orange.png</Source>
+      <Name>images\progress_bar_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_orange.xnb</Output>
+      <Time>2011-05-02T10:46:37.091272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progress_bar_right_end.png</Source>
+      <Name>images\progress_bar_right_end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_right_end.xnb</Output>
+      <Time>2011-05-02T10:46:37.091272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progress_bar_transition.png</Source>
+      <Name>images\progress_bar_transition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_transition.xnb</Output>
+      <Time>2011-05-02T10:46:37.091272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_go.png</Source>
+      <Name>images\score_font_go</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_go.xnb</Output>
+      <Time>2011-05-03T10:43:59.4576799-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_g.png</Source>
+      <Name>images\score_font_g</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_g.xnb</Output>
+      <Time>2011-05-03T10:46:07.9911026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\score_font_o.png</Source>
+      <Name>images\score_font_o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_o.xnb</Output>
+      <Time>2011-05-03T10:46:07.9911026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_0.png</Source>
+      <Name>images\green font\green_font_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_0.xnb</Output>
+      <Time>2011-05-12T10:42:17.7776085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_1.png</Source>
+      <Name>images\green font\green_font_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_1.xnb</Output>
+      <Time>2011-05-12T10:42:17.7776085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_2.png</Source>
+      <Name>images\green font\green_font_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_2.xnb</Output>
+      <Time>2011-05-12T10:42:17.793234-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_3.png</Source>
+      <Name>images\green font\green_font_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_3.xnb</Output>
+      <Time>2011-05-12T10:42:17.8088595-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_4.png</Source>
+      <Name>images\green font\green_font_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_4.xnb</Output>
+      <Time>2011-05-12T10:42:17.824485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_5.png</Source>
+      <Name>images\green font\green_font_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_5.xnb</Output>
+      <Time>2011-05-12T10:42:17.824485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_6.png</Source>
+      <Name>images\green font\green_font_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_6.xnb</Output>
+      <Time>2011-05-12T10:42:17.824485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_7.png</Source>
+      <Name>images\green font\green_font_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_7.xnb</Output>
+      <Time>2011-05-12T10:42:17.8401105-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_8.png</Source>
+      <Name>images\green font\green_font_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_8.xnb</Output>
+      <Time>2011-05-12T10:42:17.8401105-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green font\green_font_9.png</Source>
+      <Name>images\green font\green_font_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_9.xnb</Output>
+      <Time>2011-05-12T10:42:17.7776085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\ocarinatex.bmp</Source>
+      <Name>models\ocarinatex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex.xnb</Output>
+      <Time>2011-05-16T10:38:56.4095602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex1.bmp</Source>
+      <Name>models\notetex1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex1.xnb</Output>
+      <Time>2011-05-16T10:40:11.0402914-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex2.bmp</Source>
+      <Name>models\notetex2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2.xnb</Output>
+      <Time>2011-05-16T10:40:31.8075112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex3.bmp</Source>
+      <Name>models\notetex3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex3.xnb</Output>
+      <Time>2011-05-16T10:40:31.8075112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex4.bmp</Source>
+      <Name>models\notetex4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex4.xnb</Output>
+      <Time>2011-05-16T10:40:31.8075112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex5.bmp</Source>
+      <Name>models\notetex5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex5.xnb</Output>
+      <Time>2011-05-16T10:40:31.8075112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\sky04.jpg</Source>
+      <Name>images\sky04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\sky04.xnb</Output>
+      <Time>2011-05-18T09:45:36.4294496-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\Individual tracks.X</Source>
+      <Name>models\Individual tracks</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Individual tracks.xnb</Output>
+      <Time>2011-05-16T10:37:15.5011298-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\models\Individual tracks_0.xml</Key>
+        <Value>2011-05-18T09:55:56.6955855-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\notes.X</Source>
+      <Name>models\notes</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notes.xnb</Output>
+      <Time>2011-05-16T10:37:15.4855048-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\models\notes_0.xml</Key>
+        <Value>2011-05-18T09:55:56.8205959-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\note1.X</Source>
+      <Name>models\note1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\note1.xnb</Output>
+      <Time>2011-05-16T10:37:27.8605048-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\models\note1_0.xml</Key>
+        <Value>2011-05-18T09:55:56.92998-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>models\Track.X</Source>
+      <Name>models\Track</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track.xnb</Output>
+      <Time>2011-05-16T10:38:24.4855048-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\models\Track_0.xml</Key>
+        <Value>2011-05-18T09:55:57.3675164-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track skin_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>models\Real_ocarina.X</Source>
+      <Name>models\Real_ocarina</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Real_ocarina.xnb</Output>
+      <Time>2011-05-16T10:38:56.4408126-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\models\Real_ocarina_0.xml</Key>
+        <Value>2011-05-18T09:55:57.6956687-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>models\Individual tracks.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\models\Individual tracks_0.xml</Output>
+      <Time>2011-05-16T10:37:15.5011298-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notes.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\models\notes_0.xml</Output>
+      <Time>2011-05-16T10:37:15.4855048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\note1.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\models\note1_0.xml</Output>
+      <Time>2011-05-16T10:37:27.8605048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\notetex2.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2_0.xnb</Output>
+      <Time>2011-05-16T10:40:31.8075112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\Track.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\models\Track_0.xml</Output>
+      <Time>2011-05-16T10:38:24.4855048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\Track skin.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track skin_0.xnb</Output>
+      <Time>2011-05-16T10:38:24.5167548-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\Real_ocarina.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\models\Real_ocarina_0.xml</Output>
+      <Time>2011-05-16T10:38:56.4408126-04:00</Time>
+    </Item>
+    <Item>
+      <Source>models\ocarinatex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex_0.xnb</Output>
+      <Time>2011-05-16T10:38:56.4095602-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\bin\x86\Debug\OcarinaHeroLibrary.dll</Key>
+        <Value>2011-05-18T09:55:43.3507253-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_MSIL\Microsoft.Xna.Framework.Game\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Game.dll</Key>
+        <Value>2008-10-01T08:42:52.5754366-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-08-25T09:42:42-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-08-25T09:43:36-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-08-25T09:43:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-08-25T09:48:44-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-08-25T09:42:22-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-10-01T08:45:02.9010734-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

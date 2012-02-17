@@ -1,0 +1,128 @@
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.exe
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.exe
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.wma
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.dll
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.pdb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.xnb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.wma
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.exe
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.pdb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.dll
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.pdb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.exe
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.pdb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\rofl.xnb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\track.xnb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\track text.xnb
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\track text_0.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Individual tracks.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\track.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Individual tracks.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track skin_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\test_song.wma
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.exe
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHero.pdb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.dll
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\OcarinaHeroLibrary.pdb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.exe
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\obj\x86\Debug\OcarinaHero.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\MessageBoxFont.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.wma
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\note1.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex1.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex3.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex4.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex5.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\MessageBoxFont.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\note1.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex1.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex3.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex4.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex5.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notetex2_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\music\Eye of the tiger.wma
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_0.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_1.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_2.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_3.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_4.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_5.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_6.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_7.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_8.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_9.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_blue.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_left_end.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_orange.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_right_end.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_transition.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_1.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_2.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_3.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_4.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_5.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_6.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_7.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_8.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_9.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_blue.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_left_end.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_orange.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_right_end.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\progress_bar_transition.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_go.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_g.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_o.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_go.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_g.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\score_font_o.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Real_ocarina.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex_0.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_0.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_1.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_2.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_3.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_4.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_5.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_6.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_7.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_8.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_9.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notes.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Track skin_0.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\Real_ocarina.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\ocarinatex_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_0.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_1.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_2.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_3.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_4.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_5.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_6.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_7.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_8.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\green font\green_font_9.xnb
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\models\notes.xnb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\bin\x86\Debug\Content\images\sky04.xnb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\bin\x86\Debug\OcarinaHeroXMLExtensions.dll
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\bin\x86\Debug\OcarinaHeroXMLExtensions.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\obj\x86\Debug\OcarinaHeroXMLExtensions.dll
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\obj\x86\Debug\OcarinaHeroXMLExtensions.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\bin\x86\Debug\OcarinaHero.exe
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHeroXMLExtensions\bin\x86\Debug\OcarinaHero.pdb

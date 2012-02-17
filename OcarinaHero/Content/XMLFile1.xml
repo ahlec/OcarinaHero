@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="OcarinaHeroLibrary.Songs.OcarinaSong">
+    <_songFileAssetName>test_song</_songFileAssetName>
+    <_title>Title</_title>
+    <_difficulty>Hard</_difficulty>
+    <_acts>
+    </_acts>
+  </Asset>
+</XnaContent>

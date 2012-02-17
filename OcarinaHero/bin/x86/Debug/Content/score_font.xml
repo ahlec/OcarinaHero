@@ -1,0 +1,32 @@
+﻿<Song>
+  <SongFile>test_song</SongFile>
+  <Title>Hello World</Title>
+  <Difficulty>Easy</Difficulty>
+  <Speed>1</Speed>
+  <Acts>
+    <Act>
+      <Note>A</Note>
+      <Time>00:03</Time>
+    </Act>
+    <Act>
+      <Note>B</Note>
+      <Time>00:07</Time>
+    </Act>
+    <Act>
+      <Note>C</Note>
+      <Time>00:06</Time>
+    </Act>
+    <Act>
+      <Note>D</Note>
+      <Time>00:05</Time>
+    </Act>
+    <Act>
+      <Note>E</Note>
+      <Time>00:04</Time>
+    </Act>
+    <Act>
+      <Note>E</Note>
+      <Time>00:05</Time>
+    </Act>
+  </Acts>
+</Song>

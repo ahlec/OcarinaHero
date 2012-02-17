@@ -1,0 +1,6 @@
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\bin\x86\Debug\GraphicLibrary.dll
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\bin\x86\Debug\GraphicLibrary.pdb
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\obj\x86\Debug\GraphicLibrary.dll
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\GraphicLibrary\obj\x86\Debug\GraphicLibrary.pdb

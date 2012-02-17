@@ -1,0 +1,3 @@
+C:\Users\Jacob\Dropbox\OcarinaHero\OcarinaHero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomas\Dropbox\OcarinaHero\OcarinaHero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\114158\My Documents\Dropbox\OcarinaHero\OcarinaHero\Content\obj\x86\Debug\ResolveAssemblyReference.cache

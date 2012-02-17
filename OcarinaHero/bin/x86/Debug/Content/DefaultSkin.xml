@@ -1,0 +1,83 @@
+﻿<Skin>
+  <Track>
+    <Model>models\Track</Model>
+    <X>0</X>
+    <Y>5</Y>
+    <Z>-65</Z>
+    <Scale>0.11</Scale>
+  </Track>
+  <Ocarina>
+    <Model>models\Real_ocarina</Model>
+    <Scale>0.03</Scale>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>-20</Z>
+  </Ocarina>
+  <CollisionArea>
+    <Model>models\note collision</Model>
+    <Z>-10</Z>
+  </CollisionArea>
+  <NoteBase>
+    <Model>models\note1</Model>
+    <Scale>0.25</Scale>
+    <Z>-50</Z>
+    <Y>-22</Y>
+  </NoteBase>
+  <A>
+    <Texture>models\notetex1</Texture>
+    <X>-20</X>
+  </A>
+  <B>
+    <Texture>models\notetex2</Texture>
+    <X>-10</X>
+  </B>
+  <C>
+    <Texture>models\notetex3</Texture>
+    <X>0</X>
+  </C>
+  <D>
+    <Texture>models\notetex4</Texture>
+    <X>10</X>
+  </D>
+  <E>
+    <Texture>models\notetex5</Texture>
+    <X>20</X>
+  </E>
+  <Font>SpriteFont1</Font>
+  <Fonts>
+    <MessageWindow>MessageBoxFont</MessageWindow>
+  </Fonts>
+  <ScoreFont>
+    <Entry Character="0">images\score_font_0</Entry>
+    <Entry Character="1">images\score_font_1</Entry>
+    <Entry Character="2">images\score_font_2</Entry>
+    <Entry Character="3">images\score_font_3</Entry>
+    <Entry Character="4">images\score_font_4</Entry>
+    <Entry Character="5">images\score_font_5</Entry>
+    <Entry Character="6">images\score_font_6</Entry>
+    <Entry Character="7">images\score_font_7</Entry>
+    <Entry Character="8">images\score_font_8</Entry>
+    <Entry Character="9">images\score_font_9</Entry>
+    <Entry Character="g">images\score_font_g</Entry>
+    <Entry Character="o">images\score_font_o</Entry>
+  </ScoreFont>
+  <GreenFont>
+    <Entry Character="0">images\green font\green_font_0</Entry>
+    <Entry Character="1">images\green font\green_font_1</Entry>
+    <Entry Character="2">images\green font\green_font_2</Entry>
+    <Entry Character="3">images\green font\green_font_3</Entry>
+    <Entry Character="4">images\green font\green_font_4</Entry>
+    <Entry Character="5">images\green font\green_font_5</Entry>
+    <Entry Character="6">images\green font\green_font_6</Entry>
+    <Entry Character="7">images\green font\green_font_7</Entry>
+    <Entry Character="8">images\green font\green_font_8</Entry>
+    <Entry Character="9">images\green font\green_font_9</Entry>
+  </GreenFont>
+  <ProgressBar>
+    <LeftEnd>images\progress_bar_left_end</LeftEnd>
+    <RightEnd>images\progress_bar_right_end</RightEnd>
+    <Transition>images\progress_bar_transition</Transition>
+    <Orange>images\progress_bar_orange</Orange>
+    <Blue>images\progress_bar_blue</Blue>
+  </ProgressBar>
+</Skin>

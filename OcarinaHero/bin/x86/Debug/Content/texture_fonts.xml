@@ -1,0 +1,14 @@
+﻿<Fonts>
+  <Font Handle="ScoreFont">
+    <Entry Character="0"></Entry>
+    <Entry Character="1"></Entry>
+    <Entry Character="2"></Entry>
+    <Entry Character="3"></Entry>
+    <Entry Character="4"></Entry>
+    <Entry Character="5"></Entry>
+    <Entry Character="6"></Entry>
+    <Entry Character="7"></Entry>
+    <Entry Character="8"></Entry>
+    <Entry Character="9"></Entry>
+  </Font>
+</Fonts>

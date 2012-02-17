@@ -1,0 +1,15 @@
+﻿<Song>
+  <SongFile>test_song</SongFile>
+  <Title>Test Song #2</Title>
+  <Difficulty>Medium</Difficulty>
+  <Speed>1</Speed>
+  <Acts>
+    <A>00:03</A>
+    <B>00:07</B>
+    <C>00:06</C>
+    <D>00:05</D>
+    <E>00:05</E>
+    <A>00:10</A>
+    <B>00:11</B>
+  </Acts>
+</Song>
